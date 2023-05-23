@@ -2,19 +2,19 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 
-##Acerca de mi:
+## Acerca de mi:
 
 <table>
   <tr>
     <td valign="center">
-      🎓 **Ingeniero en computación**
-      🎯 Mi meta es enforcar mi carrera como desarrollador mobile, actualmente cuento con **5** años de experiencia como Desarrollador Fullstack. 
+      🎓 <b>Ingeniero en computación</b>
+      🎯 Mi meta es enforcar mi carrera como desarrollador mobile, actualmente cuento con <b>5</b> años de experiencia como Desarrollador Fullstack. 
       ✨ Me encantaria tener horas de mas para aprender todo sobre computación.
     </td>
   </tr>
 </table>
 
-##Tecnologias:
+## Tecnologias:
 <table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/flutter/flutter-original.svg" width="40" height="40"/></td>
