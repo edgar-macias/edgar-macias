@@ -1,18 +1,14 @@
 # Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200px">
 
 ## Acerca de mi:
 
-<table>
-  <tr>
-    <td valign="center">
-      🎓 <b>Ingeniero en computación</b>
-      🎯 Mi meta es enforcar mi carrera como desarrollador mobile, actualmente cuento con <b>5</b> años de experiencia como Desarrollador Fullstack. 
-      ✨ Me encantaria tener horas de mas para aprender todo sobre computación.
-    </td>
-  </tr>
-</table>
+- 🎓 <b>Ingeniero en computación</b>
+ 
+- 🎯 Mi meta es enforcar mi carrera como desarrollador mobile, actualmente cuento con <b>5</b> años de experiencia como Desarrollador Fullstack. 
+
+- ✨ Me encantaria tener horas de mas para aprender todo sobre computación.
 
 ## Tecnologias:
 <table>
