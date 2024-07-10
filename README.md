@@ -6,7 +6,7 @@
 
 - 🎓 <b>Ingeniero en computación</b>
  
-- 🎯 Mi meta es enforcar mi carrera como desarrollador mobile, actualmente cuento con <b>5</b> años de experiencia como Desarrollador Fullstack. 
+- 🎯 Mi meta es mejorar constantemente mis habilidades como ingeniero, actualmente cuento con <b>6</b> años de experiencia como Desarrollador Fullstack. 
 
 - ✨ Me encantaria que el dia tuviera mas de 24 horas para aprender todo sobre computación.
 
