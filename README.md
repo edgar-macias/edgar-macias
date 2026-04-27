@@ -39,8 +39,8 @@ I believe in demonstrating seniority through code organization. Here are example
 ### 📫 Connect
 I am currently open to discussing senior-level mobile engineering roles where architectural depth is valued.
 
-* **Email:** [Your Email]
-* **LinkedIn:** [Link to your Profile]
+* **Email:** edgarmacias@devcybsec.com
+* **LinkedIn:** https://www.linkedin.com/in/edgar-macias-devcybsec 
 * **Portfolio:** [edgarmacias.com](https://edgarmacias.com)
 
 > "Code is for humans. Architecture is for the future."
