@@ -1,42 +1,46 @@
-# Hola, Mi nombre es Edgar Macias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Edgar Macías
+## Senior Mobile Engineer | Software Architect
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200px">
+I build high-performance mobile applications with a focus on clean architecture, scalability, and robust system integration. With a strong background in software engineering, I bridge the gap between complex backend systems and seamless mobile user experiences.
 
-## Acerca de mi:
+---
 
-- 🎓 <b>Ingeniero en computación</b>
- 
-- 🎯 Mi meta es mejorar constantemente mis habilidades como ingeniero, actualmente cuento con <b>6</b> años de experiencia como Desarrollador Fullstack. 
+### 📱 Technical Expertise
 
-- ✨ Me encantaria que el dia tuviera mas de 24 horas para aprender todo sobre computación.
+My approach is language-agnostic, centered on architectural patterns that ensure maintainability and high-velocity development.
 
-## Tecnologias:
-<table>
-  <tr>
-   <td>Frameworks</td>
-   <td>
-    <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nestjs/nestjs-plain-wordmark.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/flutter/flutter-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/android/android-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/swift/swift-original.svg" width="40" height="40"/>
-   </td>
-  </tr>
-  <tr>
-   <td>Bases de Datos</td>
-   <td>
-     <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-   </td>
-  </tr>
-  <tr>
-   <td>Otros</td>
-   <td>
-     	<img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nginx/nginx-original.svg" width="40" height="40"/>
-   </td>
-  </tr>
-</table>
+* **Multiplatform:** Flutter (Provider, Riverpod, BLoC, Clean Architecture).
+* **Native iOS:** Swift, SwiftUI, UIKit, MVVM.
+* **Native Android:** Kotlin, Jetpack, MVVM, Lifecycle-aware components.
+* **Architecture:** DI (Dependency Injection), Clean Architecture, SOLID Principles, Reactive Programming.
+* **Performance:** State management, Caching strategies, and API integration optimization.
 
+---
 
+### 🚀 Selected Architecture Showcases
+I believe in demonstrating seniority through code organization. Here are examples of how I structure applications for production environments:
+
+* **[Flutter Clean Architecture](https://github.com/edgar-macias/flutter_clean_architecture_example)**
+    * A production-grade template implementing strict separation of layers (Domain, Data, Presentation) to ensure testability and scalability.
+* **[iOS MVVM Notes App](https://github.com/edgar-macias/MVVM-notes-app-example)**
+    * Clean implementation of the MVVM pattern using SwiftUI, focusing on efficient data flow and native performance.
+* **[Android MVVM Animal List](https://github.com/edgar-macias/MVVM-animal-list-android-example)**
+    * A robust example of Android development with Kotlin, highlighting proper lifecycle management and reactive state handling.
+
+---
+
+### 🎯 Why Work With Me?
+* **Architectural Mindset:** I don't just write code; I design systems that are easy to test, debug, and scale.
+* **Backend-Aware:** My experience with backend infrastructure allows me to optimize API consumption, reduce latency, and implement efficient data synchronization between the server and the device.
+* **Quality First:** I prioritize CI/CD readiness, unit testing, and clean code documentation.
+
+---
+
+### 📫 Connect
+I am currently open to discussing senior-level mobile engineering roles where architectural depth is valued.
+
+* **Email:** [Your Email]
+* **LinkedIn:** [Link to your Profile]
+* **Portfolio:** [edgarmacias.com](https://edgarmacias.com)
+
+> "Code is for humans. Architecture is for the future."
